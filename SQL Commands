@@ -1,0 +1,20 @@
+AlTER TABLE-adds columns to a table 
+AND-Combination of two conditions where both conditions must hold true
+AS-establishes an alias to rename columns or tables
+AVG(column_name)-aggregate function that returns average value of a column
+BETWEEN-create a range of values to return results from 
+COUNT(column_name)-aggregate function that counts the numbers of rows in a column excluding NULL entries
+DELETE-removes rows from a table
+GROUP BY-only used with aggregate functions and arranges identical data into groups; can be an alternative to SELECT
+INNER JOIN-combines rows from two tables when the join condition is true
+INSERT-used to add rows/values to a table
+WHERE-used with LIKE to search based on a pattern in a column
+LIMIT-specifies the max number of rows a result will return
+MAX(column_name)-returns largest value in a column
+MIN(column_name)-returns smallest value in a column
+OR-Combination of two conditions where at least one of the conditions has to hold true
+ORDER BY-Way to sort a column in ascending or descending order either alphabetically or numerically
+SUM(column_name)-returns sum of all the volues in a column
+UPDATE-allows you to edit rows in a table
+Left Join-
+Right Join-
